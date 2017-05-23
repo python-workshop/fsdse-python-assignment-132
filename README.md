@@ -1,6 +1,5 @@
-# fsdse-python-assignment-132
+# Implement depth-first traversals (in-order, pre-order, post-order) on a binary tree.
 
-# Implement depth-first search (pre-, in-, post-order) on a tree
 ## Constraints
 * Can we assume we already have a Node class with an insert method?
 	* Yes
